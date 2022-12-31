@@ -12,22 +12,22 @@
         "roomlist-background-color": "#1E1D45",
         "roomlist-text-color": "#00FF9C",
         "roomlist-text-secondary-color": "#00FF9C",
-        "roomlist-highlights-color": "#00000030",
-        "roomlist-separator-color": "#00000000",
+        "roomlist-highlights-color": "#1b1a3d",
+        "roomlist-separator-color": "#000000",
 
         "timeline-background-color": "#100D23",
         "timeline-text-color": "#00FF9C",
         "secondary-content": "#00FF9C",
         "tertiary-content": "#00FF9C",
         "timeline-text-secondary-color": "#dddddd",
-        "timeline-highlights-color": "#00000030",
+        "timeline-highlights-color": "#100D23",
 
         "reaction-row-button-selected-bg-color": "#00ff6a",
         "menu-selected-color": "#00ff6a",
         "focus-bg-color": "#00ff6a",
         "room-highlight-color": "#00ff6a",
         "other-user-pill-bg-color": "#00ff6a",
-        "togglesw-off-color": "#006eff2d",
+        "togglesw-off-color": "#00e585",
 
         "system-color": "#00FF9C",
 
@@ -37,8 +37,8 @@
             "#ff004c",
             "#00c3ff",
             "#ffff00",
-            "#6196f770",
-            "#ff174426",
+            "#100D23",
+            "#340e28",
             "#ff1744"
         ],
 
