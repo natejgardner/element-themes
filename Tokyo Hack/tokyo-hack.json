@@ -1,0 +1,42 @@
+{
+    "name": "Tokyo Hack",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#E84B3C",
+        "primary-color": "#ffffff",
+        "warning-color": "#fa6771",
+        "sidebar-color": "#230a35",
+        "roomlist-background-color": "#230a35",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#7c5f7c",
+        "roomlist-highlights-color": "#00000030",
+        "roomlist-separator-color": "#a762a790",
+        "timeline-background-color": "#230a35",
+        "timeline-text-color": "#ffffff",
+        "secondary-content": "#a762a7",
+        "tertiary-content": "#a762a7",
+        "quinary-content": "#7c5f7c",
+        "timeline-text-secondary-color": "#7c5f7c",
+        "timeline-highlights-color": "#00000030",
+        "reaction-row-button-selected-bg-color": "#E84B3C",
+        "menu-selected-color": "#7c5f7c",
+        "icon-button-color": "#a762a7",
+        "accent": "#E84B3C",
+        "alert": "#fa6771",
+        "username-colors": [
+            "#816bff",
+            "#a5c261",
+            "#c48a47",
+            "#9d7cff",
+            "#c18401",
+            "#e24c4b",
+            "#666666",
+            "#b9d0da"
+        ],
+        "avatar-background-colors": [
+            "#ffa6a6",
+            "#a6a6ff",
+            "#b3e2cd"
+        ]
+    }
+}

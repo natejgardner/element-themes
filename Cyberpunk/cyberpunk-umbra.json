@@ -1,0 +1,51 @@
+{
+    "name": "Cyberpunk Umbra",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00FF9C",
+        "accent": "#00FF9C",
+        "primary-color": "#00FF9C",
+        "warning-color": "#ff1865",
+        "alert": "#ff1865",
+
+        "sidebar-color": "#100D23",
+        "roomlist-background-color": "#1E1D45",
+        "roomlist-text-color": "#00FF9C",
+        "roomlist-text-secondary-color": "#00FF9C",
+        "roomlist-highlights-color": "#00000030",
+        "roomlist-separator-color": "#00000000",
+
+        "timeline-background-color": "#100D23",
+        "timeline-text-color": "#00FF9C",
+        "secondary-content": "#00FF9C",
+        "tertiary-content": "#00FF9C",
+        "timeline-text-secondary-color": "#dddddd",
+        "timeline-highlights-color": "#00000030",
+
+        "reaction-row-button-selected-bg-color": "#00ff6a",
+        "menu-selected-color": "#00ff6a",
+        "focus-bg-color": "#00ff6a",
+        "room-highlight-color": "#00ff6a",
+        "other-user-pill-bg-color": "#00ff6a",
+        "togglesw-off-color": "#006eff2d",
+
+        "system-color": "#00FF9C",
+
+        "username-colors": [
+            "#00FF9C",
+            "#00ff6a",
+            "#ff004c",
+            "#00c3ff",
+            "#ffff00",
+            "#6196f770",
+            "#ff174426",
+            "#ff1744"
+        ],
+
+        "avatar-background-colors": [
+            "#00ff6a",
+            "#ff004c",
+            "#00c3ff"
+        ]
+    }
+}

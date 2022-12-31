@@ -1,0 +1,22 @@
+{
+    "name": "Cyberpunk",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00FF9C",
+        "primary-color": "#00FF9C",
+        "warning-color": "#00FF9C",
+        "sidebar-color": "#261D45",
+        "roomlist-background-color": "#261D45",
+        "roomlist-highlights-color": "#100D23",
+        "roomlist-separator-color": "#00000000",
+        "roomlist-text-color": "#00FF9C",
+        "roomlist-text-secondary-color": "#00FF9C",
+        "timeline-background-color": "#261D45",
+        "timeline-highlights-color": "#100D23",
+        "timeline-text-color": "#00FF9C",
+        "secondary-content": "#00FF9C",
+        "tertiary-content": "#00FF9C",
+        "timeline-text-secondary-color": "#00FF9C",
+        "reaction-row-button-selected-bg-color": "#00FF9C"
+    }
+}
